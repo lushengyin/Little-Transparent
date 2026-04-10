@@ -28,6 +28,11 @@ xcuserdata/
 .claude/
 scripts/ralph/
 
+# Build output
+dist/
+*.zip
+*.dmg
+
 # Sensitive
 *.env
 *.secret
